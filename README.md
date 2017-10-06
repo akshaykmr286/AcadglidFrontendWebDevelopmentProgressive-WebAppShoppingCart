@@ -1,3 +1,7 @@
+<p>
+<h1 style="color:brown">WORK IS UNDER PROCESS &copy; from AngularSpheere</h1>
+</p>
+
 <p align="center">
   <a href="https://github.com/akshaykmr286/AcadglidFrontendWebDevelopmentProgressive-WebAppShoppingCart/blob/master/src/assets/logo1.png" target='_blank'>
     <img alt="AngualreSpree Logo" title="AngularSpree Logo" src="https://github.com/akshaykmr286/AcadglidFrontendWebDevelopmentProgressive-WebAppShoppingCart/blob/master/src/assets/logo1.png" width="200">
@@ -122,25 +126,3 @@ Run `npm run build--prod` to build in production with service worker pre-cache a
 
 Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `npm run build--prod` for a production build.
 
-
-## Who are we?
-
-We are [Aviabird Technologies](https://aviabird.com).
-
-__We love to create awesome Web & Mobile products.__
-
-__We are very proud of our work.__
-
-We love technologies like Golang, Elixir, Scala, Ruby, Javascript, Typescript, Swift, Java.
-
-We love some frameworks too:-
-* Ruby On Rails
-* Phoenix/Elixir framework.
-* Spring framework.
-* AngularJs (1.x+ & 2.x+)
-* ReactJs
-* BackboneJs
-
-### We are avialible for hire
-
-__If you want to hire us for a project, please contact us on `hello@aviabird.com`.__
